@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this research project, please cite the working paper."
+title: "From ‘God’ to Infrastructure: The Self-Expanding Logic of Artificial Intelligence, Energy, and Space Industry"
+type: article
+authors:
+  - family-names: Tan
+    given-names: Scott
+date-released: 2026-09-19
+version: "1.0"
+abstract: >-
+  This paper develops a structural framework for examining how AI may become coupled
+  to energy, computation, robotics, manufacturing, resource access, and space infrastructure.
+  It proposes networked industrial self-expansion as an alternative to literal machine self-replication.
